@@ -6,7 +6,7 @@ pygame.init()
 
 # Define screen dimensions
 screen_width = 600
-screen_height = 400
+screen_height = 500
 screen = pygame.display.set_mode((screen_width, screen_height))
 
 # Set title
